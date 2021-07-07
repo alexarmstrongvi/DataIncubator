@@ -1,0 +1,3 @@
+[submodule "12DayProgram/StockApp"]
+	path = 12DayProgram/StockApp
+	url = git@github.com:alexarmstrongvi/StockApp.git
