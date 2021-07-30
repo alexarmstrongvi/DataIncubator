@@ -1,3 +1,6 @@
 [submodule "12DayProgram/StockApp"]
 	path = 12DayProgram/StockApp
 	url = git@github.com:alexarmstrongvi/StockApp.git
+[submodule "Capstone/AllergenFinder"]
+	path = Capstone/AllergenFinder
+	url = git@github.com:alexarmstrongvi/AllergenFinder.git
